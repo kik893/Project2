@@ -1,3 +1,17 @@
+# /// script
+# requires-python = ">=3.11"
+# dependencies = [
+#   "httpx",
+#   "pandas",
+#   "matplotlib",
+#   "seaborn",
+#   "scikit-learn",
+#   "numpy",
+#   "chardet",
+#   "requests",
+#   "tqdm"
+# ]
+# ///
 import os
 import pandas as pd
 import matplotlib.pyplot as plt
